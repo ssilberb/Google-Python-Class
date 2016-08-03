@@ -7,3 +7,4 @@ Here is a table with the exercise name and the date completed
 Exercise | Date Completed
 ---------|---------------
 string1.py | 08-02-2016
+string2.py | 08-02-2016
